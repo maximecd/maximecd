@@ -2,4 +2,4 @@
 
 I'm Maxime, a passionate web developer from France
 
-You can find my works at https://maximecondaminat.fr
+You can find my works at https://maximecd.com
